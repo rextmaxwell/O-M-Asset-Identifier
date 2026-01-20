@@ -11,4 +11,3 @@ python-Levenshtein==0.23.0
 openpyxl==3.1.2           # read Excel asset files
 sqlalchemy==2.0.23        # optional DB write-back
 pyodbc==5.0.1             # optional for SQL Server
-choco install tesseract
